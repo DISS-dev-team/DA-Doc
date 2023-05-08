@@ -3,10 +3,10 @@
 > Request User and Password in DISS
 
 <p>
-	DISS Analytics offers two different methods to access its software platform. The first is by downloading the iOS app, which can be found in the App Store. Users simply need an account, and they can begin analyzing their data through the app. 
+DISS Analytics is currently available on web and by downloading the application for iOS devices. 
 </p>
 
-<p>The second method to access DISS Analytics is through the web version. This is particularly useful for users who prefer to work on a larger screen, or for those who do not have access to an iOS device. Regardless of the method chosen, DISS Analytics offers users a powerful suite of tools to make sense of their data and gain valuable insights.
+<p>DISS Analytics comes in a variety of plans Silver, Gold and Platinum. This platform can be connected and adapted with different systems, PACS, RIS, HIS or any billing system, as well as providing users with a powerful set of functionalities to make sense of their data and obtain valuable information.
 </p>
 
 ## iOS App
