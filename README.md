@@ -1,6 +1,6 @@
 # About Us
 
-> Smart Business Intelligence For Your Growth.
+> Smart Business Intelligence For Your Growth
 
 <p>
 DISS Analytics is a data management application designed and developed by our DISS corporation. The platform works in real time and is designed to turn data into information, giving you the opportunity to make decisions and take actions timely.
@@ -11,5 +11,4 @@ DISS Analytics is a data management application designed and developed by our DI
 </p>
 
 <hr>
-
 <img src="_media/Portada About Us.jpg" alt="Preview DISS Analytics" class="img-responsive">
