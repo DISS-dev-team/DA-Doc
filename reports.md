@@ -32,7 +32,7 @@ The app has different types of filters, by month, by quarter, by year and dynami
 
 To view the filters, it is necessary to click on the following icon to display them.
 
-<img src= "_media/IMG_8888.PNG" alt="" img src= "_media/IMG_8889.PNG >
+<img src= "_media/IMG_8888.PNG" alt="" >
 
 ## Excel
 
