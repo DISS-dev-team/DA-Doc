@@ -11,4 +11,4 @@ DISS Analytics is a data management application designed and developed by our DI
 </p>
 
 <hr>
-<img src="_media/Portada About Us.jpg" alt="Preview DISS Analytics" class="img-responsive">
+<img src="_media/Portada About Us 2.jpg" alt="Preview DISS Analytics" class="img-responsive">
