@@ -1,5 +1,9 @@
 # Reports
 
+DISS Analytics has different reports, default and custom. They can be managed and filtered by modalities, studies or active personnel, comparative information is obtained at a percentage level by days, months, quarterly or by years. All reports can be exported to word, excel or PDF.
+
+The reports are managed with the data provided by the center, allowing you to obtain information about your data quickly and efficiently in real time. It can generate sales, financial or any other type of reports and it includes the option to focus reports on specific users or have users with full access.
+
 To view the list of reports, please click on "reports" or remain on the "welcome" page.
 
 <img src="_media/reports.png" alt="Reports" />
@@ -20,11 +24,9 @@ We have standard reports ready to be used and view your information in record ti
 - Physician Productivity
 - Revenue
 
-## Custom
+## Customization Reports
 
-DISS Analytics is a top-notch software that is designed to offer exceptional versatility, enabling it to adapt to the unique workflows of each client. With this incredible software, clients can expect nothing but the best as it supports the creation of custom reports in record time. As such, clients can easily generate reports that are tailored to their specific needs without any hassle.
-
-This feature is particularly useful when working with data, as it enables clients to obtain deep insights into their data quickly and efficiently. Whether you're looking to generate sales reports, financial reports, or any other type of report, DISS Analytics is the ultimate solution that you can count on.
+DISS Analytics personalized reports can be adapted to the needs of each health center by departments, supply needs, studies, emergencies, specialists or the different finance areas.
 
 ## Filters
 
