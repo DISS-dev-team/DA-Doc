@@ -38,6 +38,8 @@ To view the filters, it is necessary to click on the following icon to display t
 
 ## Excel
 
-## Word
+## Word Report Example
+
+<img src= "_media/Word Report Example.jpg" alt="" >
 
 ## PDF
