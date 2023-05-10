@@ -44,7 +44,7 @@ Click the “Share” icon at the top.
 
 Select the format (excel or PDF).
 
-Send it to the registered mail and confirm sending the email.
+Send it to the registered mail and confirm sending the email
 
 <img src= "_media/Steps Report.jpeg" alt="" >
 
