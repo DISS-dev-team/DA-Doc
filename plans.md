@@ -1,4 +1,4 @@
-# Plans
+# Subscription Plans
 
 > Request your "Test Drive" in DISS
 
