@@ -36,8 +36,15 @@ To view the filters, it is necessary to click on the following icon to display t
 
 <img src= "_media/Filters.jpg" alt="" >
 
-# 
+To export the reports: 
 
+Select the report you want to export.
+
+Click the “Share” icon at the top. 
+
+Select the format (excel or PDF).
+
+Send it to the registered mail and confirm sending the email.
 
 ## Excel Report Example
 
