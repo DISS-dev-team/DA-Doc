@@ -36,6 +36,9 @@ To view the filters, it is necessary to click on the following icon to display t
 
 <img src= "_media/Filters.jpg" alt="" >
 
+# 
+
+
 ## Excel Report Example
 
 <img src= "_media/Excel Report Example.jpg" alt="" >
