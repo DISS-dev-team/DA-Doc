@@ -12,7 +12,7 @@
 * [Reports](reports.md?id=reports)
 
 	* [Standard](reports.md?id=standard)
-	* [Custom](reports.md?id=custom)
+	* [Customization Reports](reports.md?id=custom)
 	* [Filters](reports.md?id=filters)
 	* [Export the reports](reports.md?id=excel)
 	* [Word Report Example](reports.md?id=word)
