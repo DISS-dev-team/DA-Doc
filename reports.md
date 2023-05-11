@@ -59,4 +59,4 @@ To view the filters, it is necessary to click on the following icon to display t
 
 ## PDF
 
-<img src= "_media/PDF Report.jpg" alt="" >
+<img src= "_media/Pdf Report Update 2.jpg" alt="" >
