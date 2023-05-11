@@ -14,9 +14,9 @@
 	* [Standard](reports.md?id=standard)
 	* [Custom](reports.md?id=custom)
 	* [Filters](reports.md?id=filters)
-	* [Excel Report Example](reports.md?id=excel)
-	* [Word Report Example](reports.md?id=word)
-	* [PDF Report Example](reports.md?id=pdf)
+	* [Excel Report Example](reports.md?id=Excel Report Example )
+	* [Word Report Example](reports.md?id=Word Report Example)
+	* [PDF Report Example](reports.md?id= PDF Report Example)
 
 * [Analytics AI](analytics.md)
 * [Notifications](notifications.md)
