@@ -14,7 +14,7 @@
 	* [Standard](reports.md?id=standard)
 	* [Custom](reports.md?id=custom)
 	* [Filters](reports.md?id=filters)
-	* [Export the reports:](reports.md?id=excel)
+	* [Export the reports](reports.md?id=excel)
 	* [Word Report Example](reports.md?id=word)
 	* [PDF Report Example](reports.md?id=pdf)
 
