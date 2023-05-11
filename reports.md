@@ -51,9 +51,11 @@ To view the filters, it is necessary to click on the following icon to display t
 
 ## Excel Report Example
 
+
 <img src= "_media/Excel Report Example.jpg" alt="" >
 
 ## Word Report Example
+
 
 <img src= "_media/word exportg Uodates.jpg" alt="" >
 
