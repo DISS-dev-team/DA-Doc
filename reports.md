@@ -58,3 +58,5 @@ To view the filters, it is necessary to click on the following icon to display t
 <img src= "_media/word exportg Uodates.jpg" alt="" >
 
 ## PDF
+
+<img src= "_media/PDF Report.jpg" alt="" >
