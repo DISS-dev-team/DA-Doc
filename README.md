@@ -7,8 +7,8 @@ DISS Analytics is a data management application designed and developed by our DI
 </p>
 
 <p>
- With a focus on healthcare and finance, our platform is ideal for management of businesses of operations in these key areas, providing targeted key reports, notifications and summaries with the power of data analytics and artificial intelligence. Whether you're just starting out or have been in business for years, DISS Analytics can make a difference in helping your company grow and differentiate from the competition..
+ With a focus on healthcare and finance, our platform is ideal for management of businesses of operations in these key areas, providing targeted key reports, notifications and summaries with the power of data analytics and artificial intelligence. Whether you're just starting out or have been in business for years, DISS Analytics can make a difference in helping your company grow and differentiate from the competition.
 </p>
 
 <hr>
-<img src="_media/About Us update.jpg" alt="Preview DISS Analytics" class="img-responsive">
+<img src="_media/About Us Update 2.jpg" alt="Preview DISS Analytics" class="img-responsive">
