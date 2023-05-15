@@ -27,13 +27,13 @@ Another important issue to note is that test and calibration studies, as well as
 # Requirements
 
 
-.Internet access (Minimum 30 MB)
-.Access to databases
-      . Read access
-      . API
-      . Filtered View
-.Firewall Settings
-.Add the DISS Analytics API to the White List in Antivirus
-.Remote access to the server with Read and write user
-.System documentation
-.Workflow of internal processes, of the department involved in the project
+* Internet access (Minimum 30 MB)
+* Access to databases
+      * Read access
+      * API
+      * Filtered View
+* Firewall Settings
+* Add the DISS Analytics API to the White List in Antivirus
+* Remote access to the server with Read and write user
+* System documentation
+* Workflow of internal processes, of the department involved in the project
