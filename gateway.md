@@ -22,7 +22,7 @@ Another important issue to note is that test and calibration studies, as well as
 
 <img src="_media/Test.png" alt="Addendum" class="img-responsive">
 
-
+##
 
 # Requirements
 
