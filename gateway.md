@@ -28,7 +28,7 @@ Another important issue to note is that test and calibration studies, as well as
 
 * Internet access (Minimum 30 MB)
 * Access to databases
-      * Read access
+      * Read Access
       * API
       * Filtered View
 * Firewall Settings
