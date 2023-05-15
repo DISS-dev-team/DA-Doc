@@ -21,3 +21,16 @@ Regarding Reports that contain more than one study, all of them are considered a
 Another important issue to note is that test and calibration studies, as well as those without an Accession Number, will be ignored. In this way, these studies will not affect the doctor's bill.
 
 <img src="_media/Test.png" alt="Addendum" class="img-responsive">
+
+# Requirements
+
+.Acceso a Internet (Minimum 30 MB)
+.Acceso a las bases de datos
+      . Acceso de lectura
+      . API 
+      . Vista Filtrada
+.Firewall configurados
+.Agregar el API de DISS Analytics al White List en el Antivirus
+.Acceso remoto al servidor con usuario de Lectura y escritura
+.Documentación de los sistemas
+.Workflow de los procesos internos, del departamento involucrado en el proyecto
