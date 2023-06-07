@@ -1,16 +1,16 @@
-# Subscription Plans
+# Plan de Suscripciones
 
 > Request your "Test Drive" in DISS
 
 We have with three plans: Platinum, Gold, and Silver.
 
-## Comparision
+## Comparaciones
 
-| Type    | Users | Custom Reports | Custom Notifications | DISS AI | Service and App                |
-|---------|-------|----------------|----------------------|---------|--------------------------------|
-| Platinum| 10    |     10         |        10            | Premium | 8AM to 8PM Monday to Sunday    |
-| Gold    | 5     |     5          |        5             | Standard| 8AM to 8PM Monday to Friday    |
-| Silver  | 2     |     2          |        --            | Standard| 8AM to 5PM Monday to Friday    |
+| Tipos   | Usuarios | Reportes Personalizados | Notificaciones | DISS IA  | Servicios y Aplicaciones   |
+|---------|----------|-------------------------|----------------|----------|----------------------------|
+| Platinum|  10      |   10                    |   10           | Premium  | 8AM a 8PM Lunes a Domingo  |
+| Gold    |  5       |   5                     |   5            | Estándar | 8AM a 8PM Lunes a Viernes  |
+| Silver  |  2       |   2                     |   --           | Estándar | 8AM a 5PM Lunes a Viernes  |
 
 
 ## Selections
