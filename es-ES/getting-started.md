@@ -13,12 +13,12 @@ DISS Analytics Actualmente está disponible vía web y descargando la aplicació
 
 [Download App in Apple Store, click here.](https://apps.apple.com/us/app/diss-analytics/id1574528276)
 
-Is possible search DISS Analytics in App Store to download.
+Es posible buscar DISS Analytics en App Store para descargar.
 
 <img src="_media/download-app.png" class="img-responsive" target="_blank">
 
 ## Web App
 
-Can be accessed by visiting our website: [dissanalytics.com](https://dissanalytics.com)
+Puede acceder visitando nuestro sitio web: [dissanalytics.com](https://dissanalytics.com)
 
 <img src="_media/login-web.png" class="img-responsive" target="_blank">
