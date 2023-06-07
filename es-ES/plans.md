@@ -1,8 +1,8 @@
 # Plan de Suscripciones
 
-> Solicita tu "Test" en DISS
+> Solicita tu "Test" a DISS
 
-Tenemos tres planes: Platinum, Gold, and Silver.
+Contamos con tres planes: Platinum, Gold, y Silver.
 
 ## Comparaciones
 
@@ -13,10 +13,8 @@ Tenemos tres planes: Platinum, Gold, and Silver.
 | Silver  |  2       |   2                     |   --           | Estándar | 8AM a 5PM Lunes a Viernes  |
 
 
-## Selections
+## Selecciones
 
-| Type | Item Description |
+| Tipos | Descripción del artículo |
 | --- | --- |
-| Platinum Subscription | - Access for Up To 10 Users <br>- Widgets <br>- Up To 10 Custom Reports <br>- Premium level DISS Al <br>- 8AM to 8PM Monday to Sunday Customer Service |
-| Gold Subscription | - Access for Up To 5 Users <br>- Widgets <br>- Up To 5 Custom Reports <br>- Standard level DISS AI <br>- 8AM to 8PM Monday to Friday Customer Service |
-| Silver Subscription | - Access for Up To 2 Users <br>- Widgets <br>- Up To 2 Custom Reports <br>- Standard level DISS AI <br>- 8AM to 5PM Monday to Friday Customer Service |
+| Suscripción Platinum | - Acceso para hasta 10 usuarios <br>- Widgets <br>- Hasta 10 Reportes Personalizados <br>- Nivel Premium DISS Al <br>- Servicio al Cliente 8AM a 8PM Lunes a Domingo|| Suscripción Gold | - Acceso para hasta 5 usuarios <br>- Widgets <br>- Hasta 5 Informes personalizados <br>- Nível estándar DISS AI <br>- Atención al cliente de lunes a viernes de 8 a. m. a 8 p. m || Suscripción Silver  | - Acceso para hasta 2 usuarios <br>- Widgets <br>- Hasta 2 Informes personalizado <br>- Nível estándar DISS AI <br>- Atención al cliente de lunes a viernes de 8 am a 5 pm |
