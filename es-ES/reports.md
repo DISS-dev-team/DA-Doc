@@ -49,16 +49,16 @@ Para visualizar los filtros, es necesario hacer clic en el siguiente icono para 
 
 <img src= "_media/Steps Report.jpeg" alt="" >
 
-## Excel Report Example
+## Ejemplo de Reporte en Excel
 
 
 <img src= "_media/Excel Report Example.jpg" alt="" >
 
-## Word Report Example
+## Ejemplo de Reporte en Word
 
 
 <img src= "_media/word exportg Uodates.jpg" alt="" >
 
-## PDF Report Example
+## Ejemplo de Reporte en PDF
 
 <img src= "_media/Pdf Report Update 2.jpg" alt="" >
