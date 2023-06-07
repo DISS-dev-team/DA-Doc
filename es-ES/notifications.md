@@ -1,5 +1,5 @@
 # Notifications
 
-DISS Analytics has regular notifications, you can choose the notifications you will receive daily to speed up decision making in your center. These can be received via email or via iOS, whether on your Phone, Tablet or computer.
+DISS Analytics cuenta con notificaciones regulares, puede elegir las notificaciones que recibirá diariamente para agilizar la toma de decisiones en su centro. Estas pueden ser recibidas a través de email o por iOS, ya sea en su teléfono, tablet o computadora. 
 
 <img src= "_media/Notifications updates.JPG"  alt="" >
