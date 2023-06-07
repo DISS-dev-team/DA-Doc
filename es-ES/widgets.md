@@ -1,5 +1,5 @@
 # Widgets
 
-DISS Analytics has periodic notifications, you can choose the notifications that you will receive daily to speed up decision-making in your center.
+Las notificaciones de DISS Analytics pueden ser colocadas en los Widgets de su pantalla de inicio, pantalla de bloqueo o vista de su plataforma iOS para obtener información al instante de sus procesos.
 
 <img src= "_media/Widgets .PNG" alt="" >
