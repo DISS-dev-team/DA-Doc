@@ -1,10 +1,10 @@
-# Reports
+# Reportes
 
-DISS Analytics has different reports, default and custom. They can be managed and filtered by modalities, studies or active personnel, comparative information is obtained at a percentage level by days, months, quarterly or by years. All reports can be exported to word, excel or PDF.
+DISS Analytics tiene diferentes informes, predeterminados y personalizados. Se pueden gestionar y filtrar por modalidades, estudios o personal activo, se obtiene información comparativa a nivel porcentual por días, meses, trimestrales o por años. Todos los informes se pueden exportar a Word, Excel o PDF.
 
-The reports are managed with the data provided by the center, allowing you to obtain information about your data quickly and efficiently in real time. It can generate sales, financial or any other type of reports and it includes the option to focus reports on specific users or have users with full access.
+Los informes se gestionan con los datos proporcionados por el centro, lo que le permite obtener información sobre sus datos de forma rápida y eficaz en tiempo real. Puede generar reportes de ventas, financieros o de cualquier otro tipo e incluye la opción de enfocar reportes en usuarios específicos o tener usuarios con acceso completo.
 
-Para ver el listado de reportes, por fvaor haga click en "reportes" o permanezca en la pagina de "Bienvenida".
+Para ver el listado de reportes, por fvaor haga click en "reportes" o permanezca en la pagina de "bienvenida".
 
 <img src="_media/reports.png" alt="Reports" />
 
@@ -12,7 +12,7 @@ Para ver el listado de reportes, por fvaor haga click en "reportes" o permanezca
 
 Contamos con reportes estándares listos para ser utilizados y visualizar tu información en tiempo record.
 
-<strong>Available Reports: </strong>
+<strong>Reportes Disponibles: </strong>
 
 - Canceled Studies
 - Clock Of The Day - Radiology
