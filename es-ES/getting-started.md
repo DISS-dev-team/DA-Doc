@@ -1,12 +1,12 @@
-# Getting Started
+# Antes de Empezar 
 
-> Request User and Password in DISS
+> Solicite su usuario y contraseña a DISS
 
 <p>
-DISS Analytics is currently available on web and by downloading the application for iOS devices. 
+DISS Analytics Actualmente está disponible vía web y descargando la aplicación para dispositivos iOS.  
 </p>
 
-<p>DISS Analytics comes in a variety of plans Silver, Gold and Platinum. This platform can be connected and adapted with different systems, PACS, RIS, HIS or any billing system, as well as providing users with a powerful set of functionalities to make sense of their data and obtain valuable information.
+<p>DISS Analytics ofrece una variedad de planes, Silver, Gold y Platinum. Esta plataforma puede ser conectada y adaptada con diferentes sistemas, PACS, RIS, HIS o cualquier sistema de facturación, así como también brinda a los usuarios un poderoso conjunto de funcionalidades para dar sentido a sus datos y obtener información valiosa. 
 </p>
 
 ## iOS App
