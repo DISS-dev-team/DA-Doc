@@ -1,38 +1,36 @@
 # API Gateway
 
-API Gateway is a powerful software designed by DISS that provides seamless connectivity to various data sources. It allows users to effortlessly access and manage information from database managers, excel, pdf, images, and many other sources. 
+API Gateway es un potente software diseñado por DISS que proporciona una conectividad perfecta a varias fuentes de datos. Permite a los usuarios acceder y administrar sin esfuerzo la información de los administradores de bases de datos, excel, pdf, imágenes y muchas otras fuentes. 
 
-With its advanced capabilities, API Gateway streamlines the process of acquiring, processing, and delivering data, making it an essential tool for DISS Analytics. By providing a unified interface for accessing data, it eliminates the need for multiple tools, saving time and effort. Overall, API Gateway is a valuable solution that simplifies data integration, streamlines workflows, and enhances productivity.
+Con sus capacidades avanzadas, API Gateway agiliza el proceso de adquisición, procesamiento y entrega de datos, lo que lo convierte en una herramienta esencial para DISS Analytics. Al proporcionar una interfaz unificada para acceder a los datos, elimina la necesidad de múltiples herramientas, ahorrando tiempo y esfuerzo. En general, API Gateway es una solución valiosa que simplifica la integración de datos, agiliza los flujos de trabajo y mejora la productividad.
 
 ## Addendum
 
-If a report has more than one Addendum, the studies will not be duplicated in the final presentation, but the most recent Addendum will prevail.
+Si un reporte tiene más de una Addendum, los estudios no se duplicarán en la presentación final, pero prevalecerá el Addendum más reciente.
 
 <img src="_media/Addendum.png" alt="Addendum" class="img-responsive">
 
-## Report with many studies
+## Reportes con múltiples estudios 
 
-Regarding Reports that contain more than one study, all of them are considered and uploaded to DISS Analytics.
+En cuanto a los Reportes que contienen más de un estudio, todos ellos son considerados y subidos a DISS Analytics.
 
 <img src="_media/WithMoreThan.png" alt="Addendum" class="img-responsive">
 
-## Test studies and calibration
+## Estudios de prueba y calibración
 
-Another important issue to note is that test and calibration studies, as well as those without an Accession Number, will be ignored. In this way, these studies will not affect the doctor's bill.
+Otro tema importante a tener en cuenta es que se ignorarán los estudios de prueba y calibración, así como aquellos que no tengan un número de acceso. De esta forma, estos estudios no afectarán a la factura del médico.
 
 <img src="_media/Test.png" alt="Addendum" class="img-responsive">
 
 ##
-# Requirements
+# Requisitos:
 
-
-* Internet access (Minimum 30 MB)
-* Access to databases
-* Read Access
+* Acceso a Internet (Mínimo 30 MB)
+* Acceso de lectura a bases de datos
 * API
-* Filtered View
-* Firewall Settings
-* Add the DISS Analytics API to the White List in Antivirus
-* Remote access to the server with Read and write user
-* System documentation
-* Workflow of internal processes, of the department involved in the project
+* Vista filtrada de la base de datos
+* Configuración del Firewall
+* Agregue la API de DISS Analytics a la lista blanca en Antivirus
+* Acceso remoto al servidor con usuario de lectura y escritura
+* Documentación del sistema
+* Flujo de trabajo de procesos internos del departamento involucrado en el proyecto
