@@ -1,13 +1,13 @@
-# About Us
+# Sobre Nosotros
 
-> Smart Business Intelligence For Your Growth
+> Manejo de Datos Empresariales para su Crecimiento
 
 <p>
-DISS Analytics is a data management application designed and developed by our DISS corporation. The platform works in real time and is designed to turn data into information, giving you the opportunity to make decisions and take actions timely.
+DISS Analytics es una aplicación de gestión y manejo de datos diseñada y desarrollada por nuestra corporación DISS. La plataforma funciona en tiempo real y está diseñada para convertir datos en información, brindándote la oportunidad de tomar decisiones y tomar acciones oportunamente.
 </p>
 
 <p>
- With a focus on healthcare and finance, our platform is ideal for management of businesses of operations in these key areas, providing targeted key reports, notifications and summaries with the power of data analytics and artificial intelligence. Whether you're just starting out or have been in business for years, DISS Analytics can make a difference in helping your company grow and differentiate from the competition.
+Con un enfoque en el cuidado de la salud y las finanzas, nuestra plataforma es ideal para la gestión de negocios de operaciones en estas áreas clave, proporcionando informes, notificaciones y resúmenes claves específicos con el poder del análisis de datos y la inteligencia artificial. Ya sea que recién está comenzando o que haya estado en el negocio durante años, DISS Analytics puede marcar la diferencia para ayudar a su empresa a crecer y diferenciarse de la competencia.
 </p>
 
 <hr>
