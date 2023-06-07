@@ -24,28 +24,28 @@ Contamos con reportes estándares listos para ser utilizados y visualizar tu inf
 - Physician Productivity
 - Revenue
 
-## Customization Reports
+## Reportes Personalizados:
 
-DISS Analytics personalized reports can be adapted to the needs of each health center by departments, supply needs, studies, emergencies, specialists or the different finance areas.
+Los informes personalizados de DISS Analytics se pueden adaptar a las necesidades de cada centro de salud por departamentos, necesidades de suministro, estudios, urgencias, especialistas o las distintas áreas financieras.
 
-## Filters
+## Filtros
 
-The app has different types of filters, by month, by quarter, by year and dynamic filters.
+La app cuenta con diferentes tipos de filtros, por mes, por trimestre, por año y filtros dinámicos.
 
-To view the filters, it is necessary to click on the following icon to display them.
+Para visualizar los filtros, es necesario hacer clic en el siguiente icono para desplegarlos.
 
 <img src= "_media/Filters.jpg" alt="" >
 
-## To export the reports: 
+## Para exportar los reportes: 
 
 
-* Select the report you want to export.
+* Seleccione el reporte que desea exportar.
 
-* Click the “Share” icon at the top. 
+* Haga click en el icono "compartir" en la parte superior. 
 
-* Select the format (excel or PDF).
+* Seleccione el formato (Excel o PDF).
 
-* Send it to the registered mail and confirm sending the email.
+* Envíelo al correo registrado y confirme el envío del correo.
 
 <img src= "_media/Steps Report.jpeg" alt="" >
 
