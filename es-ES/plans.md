@@ -1,8 +1,8 @@
 # Plan de Suscripciones
 
-> Request your "Test Drive" in DISS
+> Solicita tu "Test" en DISS
 
-We have with three plans: Platinum, Gold, and Silver.
+Tenemos tres planes: Platinum, Gold, and Silver.
 
 ## Comparaciones
 
