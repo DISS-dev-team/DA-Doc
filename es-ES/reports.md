@@ -4,13 +4,13 @@ DISS Analytics has different reports, default and custom. They can be managed an
 
 The reports are managed with the data provided by the center, allowing you to obtain information about your data quickly and efficiently in real time. It can generate sales, financial or any other type of reports and it includes the option to focus reports on specific users or have users with full access.
 
-To view the list of reports, please click on "reports" or remain on the "welcome" page.
+Para ver el listado de reportes, por fvaor haga click en "reportes" o permanezca en la pagina de "Bienvenida".
 
 <img src="_media/reports.png" alt="Reports" />
 
-## Standard
+## Estándar 
 
-We have standard reports ready to be used and view your information in record time.
+Contamos con reportes estándares listos para ser utilizados y visualizar tu información en tiempo record.
 
 <strong>Available Reports: </strong>
 
